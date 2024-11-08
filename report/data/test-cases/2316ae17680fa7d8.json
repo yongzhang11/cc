@@ -1,0 +1,60 @@
+{
+  "uid" : "2316ae17680fa7d8",
+  "name" : "test_create_learning_course",
+  "fullName" : "course_test.test_course.TestContent#test_create_learning_course",
+  "time" : {
+    "start" : 1731057200243,
+    "stop" : 1731057218396,
+    "duration" : 18153
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "some_data",
+    "time" : {
+      "start" : 1731057199739,
+      "stop" : 1731057200239,
+      "duration" : 500
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "some_data::0",
+    "time" : {
+      "start" : 1731057218669,
+      "stop" : 1731057218870,
+      "duration" : 201
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2316ae17680fa7d8.json",
+  "parameterValues" : [ ]
+}

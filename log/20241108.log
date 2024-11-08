@@ -1,0 +1,3 @@
+[2024-11-08 13:16:21,131][test_course.py 32][ERROR]: 测试过程中发生错误: 'ChromiumPageWaiter' object has no attribute 'upload_success'
+[2024-11-08 14:40:53,706][test_course.py 35][ERROR]: 测试过程中发生错误: 'str' object has no attribute 'next'
+[2024-11-08 16:37:30,685][test_course.py 42][ERROR]: 测试过程中发生错误: GentConf.get_env() missing 1 required positional argument: 'name'

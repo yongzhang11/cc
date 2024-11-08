@@ -1,0 +1,11 @@
+[ {
+  "uid" : "2316ae17680fa7d8",
+  "name" : "test_create_learning_course",
+  "time" : {
+    "start" : 1731057200243,
+    "stop" : 1731057218396,
+    "duration" : 18153
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
